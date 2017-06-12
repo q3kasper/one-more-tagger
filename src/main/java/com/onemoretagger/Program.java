@@ -52,6 +52,7 @@ public class Program {
 			}
 		} catch (IOException | UnsupportedTagException | InvalidDataException e) {
 			e.printStackTrace();
+			//
 		}
 		FolderList();
 	}
